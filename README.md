@@ -8,7 +8,6 @@ execute os seguintes comandos:
 
 ```bash
   python servidor.py
-  
 ```
 ```bash
   python cliente.py
